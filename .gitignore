@@ -1,7 +1,0 @@
-venv/
-__pycache__/
-*.pyc
-.u2net/
-*.onnx
-*.log
-*.DS_Store
